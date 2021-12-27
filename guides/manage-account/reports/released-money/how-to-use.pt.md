@@ -6,7 +6,7 @@ Para consultar o relatório, recomendamos baixá-lo em formato .csv para poder a
 
 ## O que contém no relatório?
 
-O relatório é composto por:
+O relatório é composto pelas movimentações financeiras a crédito e a débito na conta Mercado Pago dentro do período selecionado. Ele contém:
 
 
 | Composição do relatório | Descrição |
@@ -22,9 +22,9 @@ O relatório é composto por:
 Além disso, o relatório reflete os conceitos de *débito* (dinheiro a pagar) e *crédito* (dinheiro a receber) em duas colunas, uma para conceito: 
 
 
-> Seu a ver estará na coluna `NET_CREDIT`
+> Seu a receber estará na coluna `NET_CREDIT`           
 >
-> Seu deve estará na coluna `NET_DEBIT`
+> Seu a pagar estará na coluna `NET_DEBIT`
 
 Você verá o saldo disponível das transações liberadas nas colunas `NET_CREDIT` (creditado) e `NET_DEBIT` (debitado), dependendo se o valor é positivo ou negativo. Você também verá aí o valor bruto e os gastos de financiamento, impostos e custos de envio que descontamos para chegar ao valor líquido.
 
