@@ -2,15 +2,15 @@
 # O que é o relatório de Dinheiro em conta?
 
 
-O relatório de Dinheiro em conta é um **relatório para baixar que te permite ver as transações que afetaram o seu dinheiro em conta**, ou seja, as movimentações que afetaram o seu saldo no Mercado Pago.
+O relatório de Dinheiro em conta é um relatório para baixar que te permite ver as transações que afetam o seu dinheiro em conta, ou seja, as movimentações que afetarão o seu saldo no Mercado Pago.
 
-Contém, por exemplo, os detalhes dos seus pagamentos, as entradas de dinheiro, as contestações e devoluções, tudo por período de tempo e discriminado por líquido e bruto. É composto pelo dinheiro disponível e não disponível. Ou seja, o dinheiro que você tem liberado para retirada e o que falta liberar de acordo com as suas escolhas.
+Contém, por exemplo, os detalhes dos seus pagamentos, as entradas de dinheiro, as contestações e as devoluções, tudo por período de tempo e discriminado por valores líquido e bruto. É composto pelo dinheiro disponível e não disponível. Ou seja, o dinheiro que você tem liberado para retirada e o que falta liberar de acordo com as suas escolhas de configuração de taxas e prazos no Portal Mercado Pago.
 
 ## Como baixar o relatório?
 
-Lembre-se de que a geração deste relatório leva alguns minutos, dependendo de quantas informações você queira incluir nele. Nem sempre ele estará pronto de imediato e, enquanto estiver sendo gerado, você verá na tela o status Em preparação.
+Lembre-se de que a geração deste relatório leva alguns minutos, dependendo de quantas informações você queira incluir nele. Nem sempre ele estará pronto de imediato e, enquanto estiver sendo gerado, você verá na tela o status "Em preparação".
 
-Ao estar disponível, ele ficará na sua bandeja de relatórios e você poderá baixá-lo de duas formas: 
+Ao estar disponível, ele ficará na sua página de relatórios e você poderá baixá-lo de duas formas: 
 
 * Por um link de download que enviaremos via e-mail.
 * Na sua conta do Mercado Pago, acesse ----[mla]---- [seus relatórios](https://www.mercadopago.com.ar/balance/reports?page=1#!/settlement-report) ------------ ----[mlm]---- [seus relatórios](https://www.mercadopago.com.mx/balance/reports?page=1#!/settlement-report) ------------ ----[mlu]---- [seus relatórios](https://www.mercadopago.com.uy/balance/reports?page=1#!/settlement-report) ------------ ----[mlc]---- [seus relatórios](https://www.mercadopago.cl/balance/reports?page=1#!/settlement-report) ------------ ----[mco]---- [seus relatórios](https://www.mercadopago.com.co/balance/reports?page=1#!/settlement-report) ------------ ----[mpe]---- [seus relatórios](https://www.mercadopago.com.pe/balance/reports?page=1#!/settlement-report) ------------ ----[mlb]---- [seus relatórios](https://www.mercadopago.com.br/balance/reports?page=1#!/settlement-report) ------------ e selecione a opção *Relatórios de dinheiro em conta*.
