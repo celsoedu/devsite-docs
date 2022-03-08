@@ -37,6 +37,10 @@ Além disso, você pode usar o relatório para ver o histórico do seu dinheiro 
 > Tenha em mãos o [Glossário do relatório](https://www.mercadopago[FAKER][URL][DOMAIN]/developers/pt/guides/manage-account/reports/account-money/glossary) de Dinheiro em conta para consultá-lo quando precisar ou queira conferir algum termo técnico.
 
 
+### Previsibilidade de Liberações
+
+Opcionalmente o relatório traz colunas com o agendamento das previsões de liberações de pagamentos possibilitando um melhor planejamento dos recebíveis.
+
 ### Próximos passos
 
 > LEFT_BUTTON_RECOMMENDED_PT
